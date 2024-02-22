@@ -1,0 +1,76 @@
+// NOTE: This file is intended for server owners who wish to cycle through only supported maps
+//
+// MapCycle file for all non-event maps with bot nav mesh.
+// By Asteur
+
+//Updated (Sept. 20, 2020)  - Fixed typo, thx Comrade Kemosabe!
+//Updated (Sept. 22, 2020)  - Added CTF; Changed wording at top
+//Updated (Marc. 30, 2021)  - Removed unsupported maps
+//Updated (May 22, 2022)    - Updated to add current maps
+
+cp_5gorge
+cp_badlands
+cp_coldfront
+cp_degrootkeep
+cp_egypt_final
+cp_fastlane
+cp_freight_final1
+cp_gorge_event
+cp_gravelpit
+cp_junction_final
+cp_manor_event
+cp_mercenarypark
+cp_metalworks
+cp_mossrock
+cp_mountainlab
+cp_powerhouse
+cp_process_final
+cp_snakewater_final1
+cp_snowplow
+cp_standin_final
+cp_sunshine_event
+cp_well
+cp_yukon_final
+ctf_2fort
+ctf_2fort_invasion
+ctf_doublecross
+ctf_landfall
+ctf_sawmill
+ctf_well
+koth_bagel_event
+koth_brazil
+koth_harvest_event
+koth_harvest_final
+koth_highpass
+koth_lazarus
+koth_maple_ridge_event
+koth_megalo
+koth_moonshine_event
+koth_probed
+koth_slasher
+koth_slaughter_event
+koth_suijin
+koth_undergrove_event
+pl_bloodwater
+pl_cactuscanyon
+pl_enclosure_final
+pl_fifthcurve_event
+pl_hasslecastle
+pl_millstone_event
+pl_precipice_event_final
+pl_rumble_event
+pl_snowycoast
+pl_swiftwater_final1
+cp_dustbowl
+cp_gorge
+koth_badlands
+koth_lakeside_final
+koth_nucleus
+koth_sawmill
+koth_viaduct
+pl_badwater
+pl_barnblitz
+pl_goldrush
+pl_hoodoo_final
+pl_thundermountain
+pl_upward
